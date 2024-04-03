@@ -12,8 +12,9 @@ public class Principal {
 	 * @param args no recibe argumentos desde linea de comandos
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		Clase1 objeto = new Clase1();
+		
 	}
 
 }
